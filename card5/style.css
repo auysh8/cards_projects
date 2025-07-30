@@ -34,7 +34,7 @@ body{
 
 .container .card{
     margin: auto;
-    width: 40%;
+    width: 23rem;
     text-align: center;
     border: 2px solid rgb(95, 95, 202);
     border-radius: 2rem;
@@ -73,7 +73,7 @@ body{
 
 .container .card #review{
     opacity: 0.85;
-    margin-bottom: 1rem;
+    margin-bottom: 1.5rem;
     padding: 0px 1rem;
 }
 
